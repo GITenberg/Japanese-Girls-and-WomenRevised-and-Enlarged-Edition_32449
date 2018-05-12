@@ -1,0 +1,31 @@
+_repo: Japanese-Girls-and-WomenRevised-and-Enlarged-Edition_32449
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32449-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bacon, Alice Mabel
+    birthdate: 1858
+    deathdate: 1918
+    gutenberg_agent_id: '35854'
+    url: http://www.gutenberg.org/2009/agents/35854
+description: ''
+gutenberg_issued: '2010-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcc 'HQ'
+- !lcsh 'Women -- Japan -- Social conditions'
+- !lcsh 'Japan -- Social life and customs -- 1868-1912'
+- !lcsh 'Women -- Japan -- Social life and customs'
+title: 'Japanese Girls and Women
+
+  Revised and Enlarged Edition'
+url: http://www.gutenberg.org/ebooks/32449
