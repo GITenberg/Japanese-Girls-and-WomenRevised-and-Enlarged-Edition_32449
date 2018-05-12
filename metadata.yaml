@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35854'
     url: http://www.gutenberg.org/2009/agents/35854
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32449#Japanese-Girls-and-WomenRevised-and-Enlarged-Edition
 gutenberg_issued: '2010-05-20'
 gutenberg_type: Text
 identifiers:
